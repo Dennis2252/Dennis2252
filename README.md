@@ -1,7 +1,7 @@
 ## 👋 Dennis
 My name is Dennis, and I am currently a Bina Nusantara University undergraduate student studying Computer Science and Mathematics. I enjoy learning new skills and improving my existing ones. I'm particularly interested in the Data Science field, which includes positions such as Data Scientist and Data Analyst, because i believe that data can be use to solve real-world problems.
 
-## 📖 Skills:
+## 📖 Skills
 * Python
 * SQL
 * Java
